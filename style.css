@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #18200F;
+    /* background-image: url(img/backdrop1.png); */
+    
+}
+.img-plantCulture{
+    width: 241px;
+    height: 124px;
+    flex-shrink: 0;
+    padding: 2%;
+}
+.nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 25em;
+    margin-top: -6em;
+    overflow: hidden;
+}
+  
+li {
+    float: left;
+    margin-right: 30px;
+} 
+li a {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 125%;
+}
+.btn-book{
+    padding: 1em;
+    background-color: #DEB572;
+    border-radius: 13px 3px 13px 3px;
+    border: none;
+    font-family: serif;
+    margin-left: 74em;
+    margin-top: -2em;
+    font-size: 105%;
+    display: block;
+    cursor: pointer;
+}
+.text-we{
+    color: white;
+    font-size: 350%;
+    margin-right: 65%;
+    margin-top: 3em;
+    margin-left: 2em;
+}
+.text-lorem-dash{
+    font-family: sans-serif;
+    color: white;
+}
