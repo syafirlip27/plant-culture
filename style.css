@@ -51,14 +51,17 @@ li a {
     position: absolute;
     margin-left: 5%;
     margin-top: 7%;
+    width: 560px;
 }
 .text-we{
     color: white;
     font-size: 350%;
     margin-right: 65%;
     margin-left: 2em;
-    
+    margin-top: -159px;
+   
 }
+
 .text-lorem-dash{
     font-family: sans-serif;
     color: white;
@@ -106,15 +109,20 @@ li a {
     flex-shrink: 0;
     /* margin-left: ; */
 }
+    /* margin-left: 74%;
+    margin-top: -179px;     
+} */
+.img-vector{
+    margin-left: 78%;
+    margin-top: -240px;
+}
 /* About */
 .img-room{
-    width: 90%;
-    margin-left: 5%;
     margin-top: 3%;
 }
 .img-rectangle{
     margin-left: 47%;
-    margin-top: 2%;
+    margin-top: 5%;
 }
 .text-partner{
     color: #FFF;
@@ -149,7 +157,7 @@ li a {
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
-    line-height: 29px; /* 90.625% */
+    line-height: 75px; /* 90.625% */
     margin-left: -60%;
 }
 .text-about{
@@ -280,3 +288,8 @@ li a {
 
 
 
+
+    /* padding-right: 18%;
+    margin-top: 3%;
+    margin-left: 20%;
+} */
