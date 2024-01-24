@@ -50,14 +50,14 @@ li a {
 .img-flow{
     position: absolute;
     margin-left: 5%;
-    margin-top: 2%;
+    margin-top: 7%;
 }
 .text-we{
     color: white;
     font-size: 350%;
     margin-right: 65%;
-    margin-top: 7%;
     margin-left: 2em;
+    
 }
 .text-lorem-dash{
     font-family: sans-serif;
@@ -92,4 +92,17 @@ li a {
     font-size: 105%;
     display: block;
     cursor: pointer;
+}
+.img-vector1{
+    width: 448px;
+    height: 192px;
+    flex-shrink: 0;
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.img-vector2{
+    width: 315.274px;
+    height: 299.106px;
+    flex-shrink: 0;
+    margin-left: ;
 }
